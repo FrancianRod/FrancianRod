@@ -1,37 +1,34 @@
-# 👋 Olá, eu sou Francian Rodrigues Santos!
+**👋 Olá, eu sou Francian Rodrigues Santos!**
+Bem-vindo ao meu perfil no GitHub! 
+🚀 Sou um Analista de Dados apaixonado por transformar dados em insights estratégicos para impulsionar a tomada de decisões. Aqui, você encontrará alguns dos meus projetos, repositórios e contribuições.
 
-Bem-vindo ao meu perfil no GitHub! Sou um analista de dados com paixão por transformar dados em insights acionáveis. Aqui você encontrará alguns dos meus projetos, repositórios e contribuições.
+**🌟 Sobre mim**
+📊 Atuação: Analista de Dados na Very Tecnologia, com experiência em análise de dados comerciais e indicadores de desempenho.
+📈 Especialidade: Desenvolvimento de dashboards no Power BI e automação de processos para otimização da análise de dados.
+💻 Banco de Dados: Proficiente em SQL, concluí o curso SQL Impressionador pela Hashtag Treinamentos (90 horas).
+📊 BI & Visualização de Dados: Certificado no curso Power BI Impressionador (117 horas).
+🛠️ Ferramentas: Utilizo DBeaver e Visual Studio Code (VSC) para gerenciar e consultar bancos de dados.
+🎯 Foco: Metas e indicadores para otimizar performance e alcançar melhores resultados.
 
-## 🌟 Sobre mim
+**🛠️ Tecnologias e Ferramentas**
+📊 Análise de Dados: Power BI, Python, Excel
+🗄️ Banco de Dados: SQL (DBeaver, SQL Server, Oracle)
+📌 Programação: Python, VBA, HTML, CSS
+📂 Versionamento de Código: Git, GitHub
 
-- 📊 Analista de Comercial com foco em dados em uma Distribuidora, onde utilizo o Power BI para criar dashboards e acompanhar indicadores de desempenho.
-- 💻 Proficiente em SQL, concluí o curso SQL Impressionador pela Hashtag Treinamentos (90 horas).
-- 💻 Proficiente em POWER BI, concluí o curso POWER BI Impressionador pela Hashtag Treinamentos (117 horas).
-- 🛠️ Utilizo o DBeaver e Vscode como SGBD para gerenciar, modelar e consultar meus bancos de dados.
-- 📈 Desenvolvo dashboards comerciais e de gestão de atividades de equipe.
-- 🎯 Trabalho com metas e indicadores para atingir resultados e premiações.
+**📈 Projetos Destacados**
+🔹 Dashboard Comercial
+📊 Análise de vendas e desempenho comercial, permitindo acompanhamento de métricas essenciais.
 
-## 🛠️ Tecnologias e Ferramentas
+🔹 Gestão de Atividades de Equipe
+📋 Monitoramento das atividades diárias da equipe, ajudando na organização e produtividade.
 
-- **Análise de Dados**: Power BI, Excel
-- **Banco de Dados**: SQL
-- **Programação**: Python
-- **Versionamento de Código**: Git, GitHub
+🔹 Mix Obrigatório - Batalha Naval
+📦 Visualização do mix de produtos positivados por cliente, incluindo metas e saldos de estoque.
 
-## 📈 Projetos Destacados
+**📫 Contato**
+📩 Email: francianprog.py@gmail.com
+💼 LinkedIn: linkedin.com/in/francian-rodrigues-ba09741a2
+🐙 GitHub: github.com/FrancianRod
 
-- **Dashboard Comercial**: Análise de vendas e desempenho comercial.
-- **Gestão de Atividades de Equipe**: Monitoramento e análise das atividades diárias da equipe.
-- **Mix Obrigatório - Batalha Naval**: Visualização e análise do mix de produtos positivados por cliente.
-
-## 📫 Contato
-
-- **Email**: (francianprog.py@gmail.com)
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/francian-rodrigues-ba09741a2/)
-- **GitHub**: [Francian Rodrigues Santos](https://github.com/FrancianRod)
-
-Estou sempre aberto a novas oportunidades e colaborações. Fique à vontade para entrar em contato!
-
----
-
-⭐️ **Dica:** Não se esqueça de "estrelar" os repositórios que você acha úteis ou interessantes!
+⭐ Dica: Não se esqueça de "estrelar" os repositórios que você acha úteis ou interessantes! 😊✨
